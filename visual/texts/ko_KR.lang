@@ -2,6 +2,8 @@
 menu.store=마켓플레이스
 menu.store.addons=마켓플레이스
 
+options.enableOpenChatMessage=채팅 메시지 열기 활성화
+
 tips.game.1=해초로 바다 거북을 끌어들여 교배하세요.	#
 tips.game.2=적대적인 몹으로부터 아기 거북을 보호하세요!	#
 tips.game.3=아기 거북은 자라면 등껍데기를 떨어뜨립니다. 이 등껍데기로 거북 껍질을 만들 수 있습니다.	#

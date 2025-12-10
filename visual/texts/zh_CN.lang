@@ -2,6 +2,8 @@
 menu.store=市场
 menu.store.addons=市场
 
+options.enableOpenChatMessage=启用开放聊天消息
+
 tips.game.1=用海草来吸引和喂养海龟。	#
 tips.game.2=保护小海龟免受有敌意生物的伤害！	#
 tips.game.3=小海龟在生长时会掉落鳞甲——这些鳞甲可以用来合成海龟壳。	#

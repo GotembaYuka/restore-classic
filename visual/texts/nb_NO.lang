@@ -2,6 +2,8 @@
 menu.store=Markedsplass
 menu.store.addons=Markedsplass
 
+options.enableOpenChatMessage=Aktiver åpen chat-melding
+
 tips.game.1=Bruk sjøgress for å tiltrekke deg og avle havskilpadder.	#
 tips.game.2=Beskytt babyskilpadder mot fiendtlige vesener!	#
 tips.game.3=Babyskilpaddene mister plater når de vokser – disse kan gjøres om til skilpaddeskall.	#

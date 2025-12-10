@@ -2,6 +2,8 @@
 menu.store=Rynek
 menu.store.addons=Rynek
 
+options.enableOpenChatMessage=Włącz wiadomości na otwartym czacie
+
 tips.game.1=Użyj trawy morskiej do przyciągania i hodowli żółwi morskich.	#
 tips.game.2=Chroń małe żółwiki przed wrogimi mobami!	#
 tips.game.3=Małe żółwie z biegiem czasu zaczynają zrzucać tarczki. Można je wykorzystać do skonstruowania skorupy żółwia.	#

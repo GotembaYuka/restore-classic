@@ -2,6 +2,8 @@
 menu.store=Marketplace
 menu.store.addons=Marketplace
 
+options.enableOpenChatMessage=Abilita messaggi chat aperti
+
 tips.game.1=Usa la prateria di mare per attirare e allevare tartarughe marine.	#
 tips.game.2=Proteggi i piccoli di tartaruga da creature ostili!	#
 tips.game.3=I piccoli di tartaruga faranno cadere squame quando crescono. Puoi usare le squame per fabbricare gusci di tartaruga.	#

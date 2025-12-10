@@ -2,6 +2,8 @@ pauseScreen.playersTitle=%s	#
 menu.store=Marketplace
 menu.store.addons=Marketplace
 
+options.enableOpenChatMessage=Offene Chat-Nachrichten aktivieren
+
 tips.game.1=Verwende Seegras, um Meeresschildkröten anzulocken und zu züchten.	#
 tips.game.2=Schütze Babyschildkröten vor feindlichen Kreaturen!	#
 tips.game.3=Baby-Schildkröten lassen Hornschuppen fallen, wenn sie wachsen. Diese können zu Schildkrötenpanzern verarbeitet werden.	#

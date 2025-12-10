@@ -2,6 +2,8 @@ pauseScreen.playersTitle=%s	#
 menu.store=Magasin
 menu.store.addons=Magasin
 
+options.enableOpenChatMessage=Activer Messages de tchat ouvert
+
 tips.game.1=Utilisez l'herbe marine pour attirer et élever des tortues de mer.	#
 tips.game.2=Protégez les bébés tortues des créatures hostiles !	#
 tips.game.3=Les bébés tortues lâchent des écailles en grandissant. Servez-vous-en pour créer des carapaces de tortue.	#

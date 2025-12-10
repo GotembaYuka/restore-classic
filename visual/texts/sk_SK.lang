@@ -2,6 +2,8 @@
 menu.store=Trhovisko
 menu.store.addons=Trhovisko
 
+options.enableOpenChatMessage=Umožniť otvorenie správy z chatu
+
 tips.game.1=Pomocou morskej trávy lákajte a rozmnožujte morské korytnačky.	#
 tips.game.2=Malé korytnačky chráňte pred nepriateľskými tvormi.	#
 tips.game.3=Keď malé korytnačky narastú, zhodia šupiny, z ktorých možno vyrobiť panciere korytnačiek.	#

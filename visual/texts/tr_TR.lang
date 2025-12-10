@@ -2,6 +2,8 @@
 menu.store=Market
 menu.store.addons=Market
 
+options.enableOpenChatMessage=Sohbet Mesajını Açmayı Etkinleştir
+
 tips.game.1=Deniz kaplumbağalarını kendinize çekmek ve beslemek için deniz yosunu kullanın.	#
 tips.game.2=Bebek kaplumbağaları düşman yaratıklardan koruyun!	#
 tips.game.3=Bebek kaplumbağalar büyüdüklerinde sırt pullarını bırakırlar. Bunlardan kaplumbağa kabuğu yapılabilir.	#

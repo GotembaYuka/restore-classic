@@ -2,6 +2,8 @@ pauseScreen.playersTitle=%s	#
 menu.store=Piactér
 menu.store.addons=Piactér
 
+options.enableOpenChatMessage=Csevegő üzenet megnyitásának engedélyezése
+
 tips.game.1=Használj tengerifüvet tengeri teknősök odacsalogatásához és tenyésztéséhez.	#
 tips.game.2=Védd meg a bébiteknősöket az ellenséges moboktól!	#
 tips.game.3=A bébiteknősök páncéllemezeket vedlenek, ahogy nőnek – azokból teknőspáncélt készíthetsz.	#

@@ -2,6 +2,8 @@
 menu.store=Marketplace
 menu.store.addons=Marketplace
 
+options.enableOpenChatMessage=Chatbericht openen inschakelen
+
 tips.game.1=Gebruik zeegras om zeeschildpadden te lokken en te fokken.	#
 tips.game.2=Bescherm babyschildpadden tegen vijandige mobs!	#
 tips.game.3=Als ze groeien, laten babyschildpadden hoornschilden vallen, die je kunt gebruiken om schildpadschilden te vervaardigen.	#

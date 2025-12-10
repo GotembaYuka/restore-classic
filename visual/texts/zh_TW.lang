@@ -2,6 +2,8 @@
 menu.store=市集
 menu.store.addons=市集
 
+options.enableOpenChatMessage=啟用開啟聊天視窗訊息
+
 tips.game.1=使用海草吸引和餵養海龜。	#
 tips.game.2=保護小海龜不被凶猛生物補食！	#
 tips.game.3=小海龜在成長時會掉落鱗甲，這些可以合成為龜殼。	#

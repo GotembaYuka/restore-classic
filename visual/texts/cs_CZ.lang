@@ -2,6 +2,8 @@ pauseScreen.playersTitle=%s	#
 menu.store=Tržiště
 menu.store.addons=Tržiště
 
+options.enableOpenChatMessage=Povolit otevření zprávy chatu
+
 tips.game.1=Pomocí mořské trávy můžete přilákat a chovat mořské želvy.	#
 tips.game.2=Chraňte želví mláďata před nepřátelskými stvořeními!	#
 tips.game.3=Když želví mláďata vyrostou, zůstanou po nich destičky krunýře – můžete je použít k výrobě želvích krunýřů.	#

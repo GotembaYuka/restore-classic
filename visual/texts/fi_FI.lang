@@ -2,6 +2,8 @@ pauseScreen.playersTitle=%s	#
 menu.store=Kauppa
 menu.store.addons=Kauppa
 
+options.enableOpenChatMessage=Ota avoin chattiviesti käyttöön
+
 tips.game.1=Käytä meriruohoa merikilpikonnien houkuttelemiseen ja kasvattamiseen.	#
 tips.game.2=Suojele kilpikonnavauvoja vihamielisiltä olioilta!	#
 tips.game.3=Kilpikonnavauvat pudottavat sarveislevyjä kasvaessaan. Niistä voi nikkaroida kilpikonnan kilpiä.	#

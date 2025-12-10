@@ -161,6 +161,39 @@
         "sounds/damage/hit3"
       ]
     },
+    "game.player.attack.critical": {
+      "__use_legacy_max_distance" : "true",
+      "category" : "player",
+      "max_distance" : null,
+      "min_distance" : null,
+      "sounds": [
+        {
+          "name": "sounds/mob/player/attack/strong1",
+          "volume": 0.2,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/mob/player/attack/strong2",
+          "volume": 0.2
+        },
+        {
+          "name": "sounds/mob/player/attack/strong3",
+          "volume": 0.2
+        },
+        {
+          "name": "sounds/mob/player/attack/strong4",
+          "volume": 0.2
+        },
+        {
+          "name": "sounds/mob/player/attack/strong5",
+          "volume": 0.2
+        },
+        {
+          "name": "sounds/mob/player/attack/strong6",
+          "volume": 0.2
+        }
+      ]
+    },
     "ambient.underwater.enter": {
       "sounds": []
     },

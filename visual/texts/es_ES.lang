@@ -2,6 +2,8 @@ pauseScreen.playersTitle=%s	#
 menu.store=Marketplace
 menu.store.addons=Marketplace
 
+options.enableOpenChatMessage=Habilitar apertura de mensaje de chat
+
 tips.game.1=Usa fondo marino para atraer y alimentar a las tortugas marinas.	#
 tips.game.2=¡Protege a las tortugas bebé de las criaturas enemigas!	#
 tips.game.3=Las tortugas bebé sueltan escamas al crecer, que se pueden usar para fabricar caparazones de tortuga.	#

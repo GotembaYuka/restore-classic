@@ -2,6 +2,8 @@ pauseScreen.playersTitle=%s	#
 menu.store=Mercado
 menu.store.addons=Mercado
 
+options.enableOpenChatMessage=Habilitar mensaje abierto en el chat
+
 tips.game.1=Usa algas marinas para atraer y criar tortugas marinas.	#
 tips.game.2=¡Protege a las tortugas bebé de las criaturas hostiles!	#
 tips.game.3=Las tortugas bebé dejan caer escamas cuando crecen. Podrás transformarlas en caparazones de tortuga.	#

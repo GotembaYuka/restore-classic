@@ -3,6 +3,8 @@ profileScreen.header=Profile
 menu.store=Marketplace
 menu.store.addons=Marketplace
 
+options.enableOpenChatMessage=Enable Open Chat Message
+
 disconnectionScreen.header.realms_hidden=Multiplayer Invitation
 disconnectionScreen.body.realms_hidden=Unable to join this specific server.
 disconnectionScreen.cantConnect=Unable to connect to world.

@@ -2,6 +2,8 @@ pauseScreen.playersTitle=%s	#
 menu.store=Markedsplads
 menu.store.addons=Markedsplads
 
+options.enableOpenChatMessage=Aktivér beskeden Åbn chat
+
 tips.game.1=Brug havgræs til at tiltrække og avle på havskildpadder.	#
 tips.game.2=Beskyt babyskildpadder mod sultne rovdyr!	#
 tips.game.3=Babyskildpadder dropper skæl, når de vokser – skæl kan bruges til at fremstille skildpaddeskjold.	#

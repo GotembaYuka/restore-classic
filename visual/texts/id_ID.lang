@@ -2,6 +2,8 @@ pauseScreen.playersTitle=%s	#
 menu.store=Marketplace
 menu.store.addons=Marketplace
 
+options.enableOpenChatMessage=Aktifkan Pesan Obrolan Terbuka
+
 tips.game.1=Gunakan lamun untuk memancing dan mengembangbiakkan penyu laut.	#
 tips.game.2=Lindungi anak penyu dari mob keji!	#
 tips.game.3=Anak penyu akan melepaskan skat saat tumbuh dewasa. Ini bisa digunakan untuk membuat cangkang penyu.	#

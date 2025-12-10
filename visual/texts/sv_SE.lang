@@ -2,6 +2,8 @@
 menu.store=Marknaden
 menu.store.addons=Marknaden
 
+options.enableOpenChatMessage=Aktivera öppna chattmeddelanden
+
 tips.game.1=Använd sjögräs för att locka på och para havssköldpaddor.	#
 tips.game.2=Skydda sköldpaddsungar från fiender!	#
 tips.game.3=Sköldpaddsungar lämnar fjäll efter sig när de växer. Man kan tillverka sköldpaddsskal av dem.	#

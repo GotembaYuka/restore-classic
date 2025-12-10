@@ -5,7 +5,7 @@
 なお、このリソースパックは「v1.16」時代のUIに戻すことを目標に作っております。 
 
 ## 対応バージョン
-v1.21.100
+v1.21.130
 
 ## おすすめ設定
 このリソースパックを使う時は、以下の設定を変更しておくことをおすすめします！
@@ -28,7 +28,7 @@ v1.21.100
 - チャット設定
   - エモート チャットをミュートを ON
   - フォントを `Mojangles`
-  - 行の間隔を `x2.1`
+  - 行の間隔を `x1.0`
 
 ## mcaddonの中身
 このリポジトリ・mcaddonには2つのリソースパックが入っております！  
@@ -57,6 +57,8 @@ Soundsは、サウンドを昔に戻すリソースパックです！
 - スコアボードsidebarを古いUIに戻す。
 - ホットバーの枠のテクスチャが再び半透明に。
 - 位置、プレイ日数、アイテムテキスト、actionbar、チャットの背景透明度がアクセシビリティ設定の値を無視するように。
+- 長い名前のアイテムを持ったとき、アイテム名表示が消えるまでに時間がかかるマイクラのバグを直す。
+- HUDのエフェクト表示でビーコンなどのエフェクトにつけられる水色の枠を消す。
 - エフェクト画面で閉じるボタンが再び左側へ。
 
 #### 設定画面
@@ -81,7 +83,6 @@ Soundsは、サウンドを昔に戻すリソースパックです！
 ### テクスチャ
 - Minecraftのロゴを昔のデザインに戻す。
 - info_updateや不明ブロック等のテクスチャをupdate!テクスチャに戻す。
-- クォーツのブロックの下の面のテクスチャがなめらかなクォーツのテクスチャに。
 - スポーンエッグのテクスチャを元のテクスチャに。
 - 染料のテクスチャを元のテクスチャに。
 - 雲、太陽のテクスチャを元のテクスチャに。
@@ -99,20 +100,22 @@ Soundsは、サウンドを昔に戻すリソースパックです！
 - 木の皮を剥いだ時、木のハーフブロックを積み上げたときのサウンドを古いサウンドに戻す。
 - シャベルで草の道を作るときのサウンドを古いサウンドに戻す。
 - 草ブロックを置いたときのサウンドが小さい問題を修正。
+- 火・溺れの特有のダメージ音を消す。
+- クリティカル攻撃音を消す。
 
 ## ビフォーアフター比較
 タイトル画面
-![タイトル画面](https://raw.githubusercontent.com/YuuhaLand/files/refs/heads/main/restore-classic/hikaku1.png)
+![タイトル画面](https://raw.githubusercontent.com/GotembaYuka/files/refs/heads/main/restore-classic/hikaku1.png)
 設定画面
-![設定画面](https://raw.githubusercontent.com/YuuhaLand/files/refs/heads/main/restore-classic/hikaku2.png)
+![設定画面](https://raw.githubusercontent.com/GotembaYuka/files/refs/heads/main/restore-classic/hikaku2.png)
 ゲーム画面
-![ゲーム画面](https://raw.githubusercontent.com/YuuhaLand/files/refs/heads/main/restore-classic/hikaku3.png)
+![ゲーム画面](https://raw.githubusercontent.com/GotembaYuka/files/refs/heads/main/restore-classic/hikaku3.png)
 インベントリ画面
-![インベントリ画面](https://raw.githubusercontent.com/YuuhaLand/files/refs/heads/main/restore-classic/hikaku4.png)
+![インベントリ画面](https://raw.githubusercontent.com/GotembaYuka/files/refs/heads/main/restore-classic/hikaku4.png)
 ポーズ画面
-![ポーズ画面](https://raw.githubusercontent.com/YuuhaLand/files/refs/heads/main/restore-classic/hikaku5.png)
+![ポーズ画面](https://raw.githubusercontent.com/GotembaYuka/files/refs/heads/main/restore-classic/hikaku5.png)
 オーディオ設定画面
-![オーディオ設定画面](https://raw.githubusercontent.com/YuuhaLand/files/refs/heads/main/restore-classic/hikaku6.png)
+![オーディオ設定画面](https://raw.githubusercontent.com/GotembaYuka/files/refs/heads/main/restore-classic/hikaku6.png)
 
 ## マイクラのアプデによって動かなくなる可能性があります！
 マイクラのUIはたまに破壊的変更が加わり、このリソースパックがうまく動かなくなる可能性があります！  
@@ -130,6 +133,6 @@ Soundsは、サウンドを昔に戻すリソースパックです！
 また、このリソースパックにはバニラのリソースパックから拝借したものがあります。
 
 ## ダウンロードはこちら
-- [Github Releases](https://github.com/YuuhaLand/restore-classic/releases/latest)にて配布しております！
+- [Github Releases](https://github.com/GotembaYuka/restore-classic/releases/latest)にて配布しております！
 
-## パック製作者: YuuhaLand
+## パック製作者: Yuka0745

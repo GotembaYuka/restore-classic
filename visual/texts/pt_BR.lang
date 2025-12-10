@@ -2,6 +2,8 @@
 menu.store=Marketplace
 menu.store.addons=Marketplace
 
+options.enableOpenChatMessage=Ativar mensagem de chat aberta
+
 tips.game.1=Use erva marinha para atrair e reproduzir tartarugas marinhas.	#
 tips.game.2=Proteja os filhotes de tartaruga das criaturas hostis.	#
 tips.game.3=Os filhotes de tartaruga soltam escamas quando crescem – que podem ser usadas para criar cascos de tartaruga.	#

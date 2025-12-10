@@ -2,6 +2,8 @@
 menu.store=Marketplace
 menu.store.addons=Marketplace
 
+options.enableOpenChatMessage=Ativar Mensagens do Chat Abertas
+
 tips.game.1=Utiliza erva marinha para atrair e procriar tartarugas marinhas.	#
 tips.game.2=Protege as tartarugas bebés de criaturas hostis!	#
 tips.game.3=Conforme crescem, as tartarugas bebés deixam cair escamas, que podem ser usadas para elaborar carapaças de tartaruga.	#
